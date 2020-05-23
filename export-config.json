@@ -1,0 +1,18 @@
+{
+    "attributes": {
+        "type":      true,
+        "id":        "@id",
+        "version":   true,
+        "changeset": true,
+        "timestamp": true,
+        "uid":       true,
+        "user":     "osm_user",
+        "way_nodes": false
+    },
+    "format_options": {
+    },
+    "linear_tags":  true,
+    "area_tags":    true,
+    "exclude_tags": [],
+    "include_tags": []
+}
